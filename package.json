@@ -1,0 +1,25 @@
+{
+  "name": "testlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnel123/testlib.git"
+  },
+  "author": "agnel amodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnel123/testlib/issues"
+  },
+  "homepage": "https://github.com/agnel123/testlib#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
